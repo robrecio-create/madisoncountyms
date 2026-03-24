@@ -4,8 +4,8 @@ export const towns = [
   { name: 'Canton', slug: 'canton', businesses: 0 },
   { name: 'Flora', slug: 'flora', businesses: 0 },
   { name: 'Gluckstadt', slug: 'gluckstadt', businesses: 0 },
+  { name: 'Camden', slug: 'camden', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -26,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
