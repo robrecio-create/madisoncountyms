@@ -1,5 +1,5 @@
 export const towns = [
-  { name: 'Madison', slug: 'madison', businesses: 0 },
+  { name: 'Madison', slug: 'madison-ms', businesses: 0 },
   { name: 'Ridgeland', slug: 'ridgeland', businesses: 0 },
   { name: 'Canton', slug: 'canton', businesses: 0 },
   { name: 'Flora', slug: 'flora', businesses: 0 },
